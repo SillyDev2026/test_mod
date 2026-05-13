@@ -1,0 +1,10 @@
+>mode,zm
+>type,common
+
+// SERVER (GSC)
+scriptparsetree,scripts/zm/_load.gsc
+scriptparsetree,scripts/zm/main.gsc
+scriptparsetree,scripts/zm/xp_system.gsc
+scriptparsetree,scripts/zm/_zm_score.gsc
+
+rawfile,scripts/zm/xp_ui.csc
